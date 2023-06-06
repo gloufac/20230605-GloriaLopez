@@ -1,0 +1,5 @@
+RAM: memoria de acceso aleatorio
+Procesador
+ROM
+Cache
+Registros del CPU

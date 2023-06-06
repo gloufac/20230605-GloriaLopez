@@ -1,0 +1,5 @@
+git status: muestra el estado de los archivos si estan en el staging area, si estan untracked o si ya se subieron a la rama.
+git push origin {branch}: subir los cambios al repositorio remoto branch.
+git checkout {branch}: switch, cambiar de rama, seleccionar en que rama se desea trabajar
+git merge {branch}: combinar los cambios sobre la rama activa de la rama {branch} (indicada)
+git config credential.username: con que usuario va a realizar los commits cambios al repositorio remoto.
